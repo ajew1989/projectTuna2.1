@@ -1,0 +1,63 @@
+{
+  "_from": "nativescript-geolocation",
+  "_id": "nativescript-geolocation@3.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-y1QBhMbsHpkKCtlO0OZRWG0i7iI=",
+  "_location": "/nativescript-geolocation",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "nativescript-geolocation",
+    "name": "nativescript-geolocation",
+    "escapedName": "nativescript-geolocation",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-geolocation/-/nativescript-geolocation-3.0.0.tgz",
+  "_shasum": "cb540184c6ec1e990a0ad94ed0e651586d22ee22",
+  "_spec": "nativescript-geolocation",
+  "_where": "/Users/PlayTag/PlayTagg",
+  "author": {
+    "name": "NativeScript Team"
+  },
+  "bugs": {
+    "url": "https://github.com/NativeScript/nativescript-geolocation/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Provides API for getting and monitoring location for NativeScript app.",
+  "devDependencies": {
+    "tns-core-modules": "^3.0.0 || ^3.0.0-rc.1",
+    "tns-platform-declarations": "^3.0.0 || ^3.0.0-rc.1",
+    "tslint": "^4.1.1",
+    "typescript": "^2.2.2"
+  },
+  "homepage": "https://github.com/NativeScript/nativescript-geolocation#readme",
+  "keywords": [
+    "NativeScript",
+    "location",
+    "geolocation"
+  ],
+  "main": "nativescript-geolocation",
+  "name": "nativescript-geolocation",
+  "nativescript": {
+    "platforms": {
+      "android": "3.0.0",
+      "ios": "3.0.0"
+    }
+  },
+  "peerDependencies": {
+    "tns-core-modules": "^3.0.0 || ^3.0.0-rc.1 || >=3.0.0-2017"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NativeScript/nativescript-geolocation.git"
+  },
+  "version": "3.0.0"
+}
